@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ```javascript
-const kalin: Developer = {
+const klement: Developer = {
     code: ["CSharp", "Javascript", "Typescript"],
     technologies: {
         backEnd: [".NET Core", "ASP.NET Core", "EF Core", "xUnit"],
