@@ -10,7 +10,7 @@ const klement: Developer = {
         databases: ["MSSQL", "SQLite", "PostgreSQL"]
     },
     architecture: ["Clean architecture", "N-Layer Architecture", "Serverless Architecture", "Microservices"],
-    education: ["Software University of Sofia", "Technical University of Sofia"],
+    education: ["", "University of Thessaly"],
     hobbies: ["Football", "Cinema", "Competitive Gaming"],
     goal: "Contributing to Open Source projects"
 };
